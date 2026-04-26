@@ -231,24 +231,11 @@ Lihat `AOL.ipynb` untuk:
 - Confusion matrix
 - ROC-AUC curve
 
-## 🤝 Contributing
-
-Kontribusi sangat diterima! Silakan:
-1. Fork repository
-2. Buat branch untuk fitur baru (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push ke branch (`git push origin feature/AmazingFeature`)
-5. Buka Pull Request
 
 ## 📄 License
 
 Proyek ini dilisensikan di bawah MIT License - lihat file LICENSE untuk detail.
 
-## 👨‍💻 Informasi Proyek
-
-- **Mata Kuliah**: Natural Language Processing
-- **Institusi**: [Your Institution]
-- **Semester**: 4
 
 ## 📚 Referensi
 
@@ -270,4 +257,3 @@ Proyek ini dilisensikan di bawah MIT License - lihat file LICENSE untuk detail.
 
 ---
 
-**Untuk pertanyaan atau issues, silakan buka GitHub issue atau hubungi maintainer.**
