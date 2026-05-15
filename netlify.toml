@@ -1,0 +1,12 @@
+[build]
+command = "cd frontend && npm run build"
+publish = "frontend/build"
+
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
+
+[env.production]
+[env.production.context.production.environment]
+REACT_APP_API_URL = "https://YOUR_RENDER_BACKEND_URL"

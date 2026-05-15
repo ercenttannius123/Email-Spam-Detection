@@ -3,6 +3,7 @@ import axios from 'axios';
 import './App.css';
 
 function App() {
+  const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:5000';
   const [emailText, setEmailText] = useState('');
   const [result, setResult] = useState(null);
   const [loading, setLoading] = useState(false);
@@ -21,13 +22,13 @@ function App() {
     setResult(null);
 
     try {
-      const response = await axios.post('http://localhost:5000/predict', {
+      const response = await axios.post(`${apiUrl}/predict`, {
         text: emailText
       });
 
       setResult(response.data);
     } catch (err) {
-      setError(err.response?.data?.error || 'Error connecting to API. Make sure the server is running on http://localhost:5000');
+      setError(err.response?.data?.error || `Error connecting to API. Make sure the backend is running at ${apiUrl}`);
       console.error('Error:', err);
     } finally {
       setLoading(false);
