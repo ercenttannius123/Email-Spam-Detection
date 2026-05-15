@@ -231,6 +231,7 @@ Lihat `AOL.ipynb` untuk:
 - Confusion matrix
 - ROC-AUC curve
 
+<<<<<<< HEAD
 ## 🤝 Contributing
 
 Kontribusi sangat diterima! Silakan:
@@ -239,16 +240,21 @@ Kontribusi sangat diterima! Silakan:
 3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push ke branch (`git push origin feature/AmazingFeature`)
 5. Buka Pull Request
+=======
+>>>>>>> 111913b1790ec4fbac370ef9566e5bdb7bf6dbde
 
 ## 📄 License
 
 Proyek ini dilisensikan di bawah MIT License - lihat file LICENSE untuk detail.
 
+<<<<<<< HEAD
 ## 👨‍💻 Informasi Proyek
 
 - **Mata Kuliah**: Natural Language Processing
 - **Institusi**: [Your Institution]
 - **Semester**: 4
+=======
+>>>>>>> 111913b1790ec4fbac370ef9566e5bdb7bf6dbde
 
 ## 📚 Referensi
 
@@ -257,6 +263,7 @@ Proyek ini dilisensikan di bawah MIT License - lihat file LICENSE untuk detail.
 - [React Documentation](https://react.dev/)
 - [TF-IDF Vectorization](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
 
+<<<<<<< HEAD
 ## 💡 Future Improvements
 
 - [ ] Tambahkan real-time model update
@@ -271,3 +278,9 @@ Proyek ini dilisensikan di bawah MIT License - lihat file LICENSE untuk detail.
 ---
 
 **Untuk pertanyaan atau issues, silakan buka GitHub issue atau hubungi maintainer.**
+=======
+This implementation is inspired by a Kaggle notebook, with modifications in preprocessing and model selection.
+
+---
+
+>>>>>>> 111913b1790ec4fbac370ef9566e5bdb7bf6dbde
