@@ -235,11 +235,11 @@ Lihat `AOL.ipynb` untuk:
 
 | Nama | Peran |
 |------|-------|
-| **Ercent Tannius** | Train AI + FrontEnd + Final Report |
-| **Jos Hwen Sim** | Backend Basic + FrontEnd + Final Report |
-| **Nicholas Lee** | Ide Project + Final Report |
-| **Winson Jonathan** | Ide Project + Final Report |
-| **Yohanes Kevin Lie** | Gabungin FE + BE + Model |
+| **Ercent Tannius** | Train AI, Frontend, Laporan Bab 1-2 |
+| **Jos Hwen Sim** | Backend, Frontend, Abstract,Laporan Bab 5 |
+| **Nicholas Lee** | Ide Project,Laporan Bab 3 |
+| **Winson Jonathan** | Ide Project, Laporan Bab 4 (Implementasi & Hasil) |
+| **Yohanes Kevin Lie** | Integrasi Frontend + Backend + Model, Laporan Bab 5 (Diskusi & Limitasi) |
 
 
 ## 📄 License
