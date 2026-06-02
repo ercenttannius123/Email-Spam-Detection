@@ -233,20 +233,19 @@ Lihat `AOL.ipynb` untuk:
 
 ## 🤝 Contributing
 
-Kontribusi sangat diterima! Silakan:
-1. Fork repository
-2. Buat branch untuk fitur baru (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push ke branch (`git push origin feature/AmazingFeature`)
-5. Buka Pull Request
-=======
->>>>>>> 111913b1790ec4fbac370ef9566e5bdb7bf6dbde
+| Nama | Peran |
+|------|-------|
+| **Ercent Tannius** | Train AI + FrontEnd + Final Report |
+| **Jos Hwen Sim** | Backend Basic + FrontEnd + Final Report |
+| **Nicholas Lee** | Ide Project + Final Report |
+| **Winson Jonathan** | Ide Project + Final Report |
+| **Yohanes Kevin Lie** | Gabungin FE + BE + Model |
+
 
 ## 📄 License
 
 Proyek ini dilisensikan di bawah MIT License - lihat file LICENSE untuk detail.
 
-<<<<<<< HEAD
 ## 👨‍💻 Informasi Proyek
 
 - **Mata Kuliah**: Natural Language Processing
