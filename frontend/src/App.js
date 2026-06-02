@@ -3,7 +3,7 @@ import axios from 'axios';
 import './App.css';
 
 function App() {
-  const apiUrl = process.env.REACT_APP_API_URL || 'https://email-spam-detection-production-2f54.up.railway.app';
+  const apiUrl = process.env.REACT_APP_API_URL || 'http://localhost:5000';
   const [emailText, setEmailText] = useState('');
   const [result, setResult] = useState(null);
   const [loading, setLoading] = useState(false);
