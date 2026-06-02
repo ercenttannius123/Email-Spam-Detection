@@ -249,7 +249,7 @@ Proyek ini dilisensikan di bawah MIT License - lihat file LICENSE untuk detail.
 ## 👨‍💻 Informasi Proyek
 
 - **Mata Kuliah**: Natural Language Processing
-- **Institusi**: [Your Institution]
+- **Institusi**: Binus Unviersity
 - **Semester**: 4
 
 
