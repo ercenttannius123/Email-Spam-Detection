@@ -264,7 +264,5 @@ Proyek ini dilisensikan di bawah MIT License - lihat file LICENSE untuk detail.
 
 ---
 
-This implementation is inspired by a Kaggle notebook, with modifications in preprocessing and model selection.
 
----
 
